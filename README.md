@@ -145,7 +145,9 @@ Worker 提供 5 个工具：
 
 ## 友情链接
 
-- [LINUX DO](https://linux.do) —— 本项目链接认可 LINUX DO 社区。
+[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-0A7CFF)](https://linux.do)
+
+本项目链接认可 LINUX DO 社区。
 
 ## License
 
