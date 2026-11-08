@@ -143,6 +143,10 @@ Worker 提供 5 个工具：
 - 图片 7 天后由 R2 生命周期规则自动删除。
 - API key 只给生图相关的最小权限，项目设了预算上限。
 
+## 友情链接
+
+- [LINUX DO](https://linux.do) —— 本项目链接认可 LINUX DO 社区。
+
 ## License
 
 MIT
